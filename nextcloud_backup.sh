@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ### Uncomment the DEBUG line to get debug logs ###
-DEBUG="TRUE"
+#DEBUG="TRUE"
 
 ECHO=/bin/echo
 DATE=/bin/date
